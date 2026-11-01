@@ -1,1 +1,1 @@
-v0.18 pilot web (Missions 1, 2, 3; tasharrafna retakes) — 1 Nov 2026
+v0.19 pilot web — Mission 2 rebuilt to lesson plan v1 — 1 Nov 2026
