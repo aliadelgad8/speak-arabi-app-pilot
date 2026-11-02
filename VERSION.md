@@ -1,1 +1,1 @@
-v0.19 pilot web — Mission 2 rebuilt to lesson plan v1 — 1 Nov 2026
+v0.20 pilot web — Mission 2 lesson plan v2 — 2 Nov 2026
