@@ -1,1 +1,1 @@
-v0.21 pilot web — Mission 2 v2.1 fixes — 2 Nov 2026
+v0.22 pilot web — stable shuffle — 3 Nov 2026
